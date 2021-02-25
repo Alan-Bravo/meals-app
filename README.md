@@ -3,5 +3,5 @@
 # meals-app
 
 * Implementación de Data entre componentes
-*       ""       "" React-Navigation
-*       ""       "" Redux (en proceso)
+* Primera vez usando React-Navigation en React Native
+* Uso de Redux (en proceso)
